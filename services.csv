@@ -1,0 +1,213 @@
+ID,Code,Name,Category,Website,Android App,iOS App
+1,Alibaba,Alibaba,Shopping,https://www.alibaba.com/,com.alibaba.intl.android.apps.poseidon,id503451073
+2,AlibabaCloud,Alibaba Cloud,Tools,https://www.alibabacloud.com/,,
+3,Aliexpress,AliExpress,Shopping,https://www.aliexpress.com/,com.alibaba.aliexpresshd,id436672029
+4,Alipay,Alipay,Finance,https://global.alipay.com/,com.eg.android.AlipayGphone,id333206289
+5,Amazon,Amazon,Shopping,https://www.amazon.com/,,
+6,AmazonPay,Amazon Pay,Finance,https://pay.amazon.com/,,
+7,Apple,Apple ID,Tools,https://appleid.apple.com/,,
+8,As2in1Mobile,As2in1 Mobile,Telecommunications,https://www.as2in1mobile.com/,com.as2in1,id1225896355
+9,Baidu,Baidu,Tools,https://www.baidu.com/,,
+10,Batchat,BatChat,Telecommunications,https://www.batchat.com/,com.woyue.batchat,id1469353596
+11,BigoLive,Bigo Live,Social,https://bigo.tv/,sg.bigo.live,id1077137248
+12,Binance,Binance,Finance,https://www.binance.com/,,
+13,Blablacar,BlaBlaCar,Transportation,https://www.blablacar.com/,com.comuto,id341329033
+14,BlizzardEntertainment,Blizzard Entertainment,Entertainment,https://www.blizzard.com/,,
+15,Blockscout,Blockscout,Finance,https://blockscout.com/,,
+16,Blued,Blued,Dating,https://www.blued.com/,com.blued.international,id1090274263
+17,Bolt,Bolt,Transportation,https://bolt.eu/,ee.mtakso.client,id675033630
+18,Bumble,Bumble,Dating,https://bumble.com/,com.bumble.app,id930441707
+19,Byjus,BYJU'S,Education,https://byjus.com/,com.byjus.thelearningapp,id1015059076
+20,Cabify,Cabify,Transportation,https://cabify.com/,com.cabify.rider,id476087442
+21,Careem,Careem,Transportation,https://www.careem.com/,com.careem.acma,id592978487
+22,CareemPay,Careem Pay,Finance,https://www.careem.com/careem-pay/,com.careem.acma,id592978487
+23,CashApp,Cash App,Finance,https://cash.app/,com.squareup.cash,id711923939
+24,Chamet,Chamet,Social,http://www.ichamet.com/,com.hkfuliao.chamet,id1187267564
+25,CircleK,Circle K,Shopping,https://www.circlek.com/,com.outsitenetworks.circlek,id566580292
+26,Clipclaps,ClipClaps,Social,https://www.clipclaps.com/,com.sanhe.clipclaps,id1331794493
+27,Clubhouse,Clubhouse,Social,https://www.joinclubhouse.com/,com.clubhouse.app,id1503133294
+28,Coinbase,Coinbase,Finance,https://www.coinbase.com/,com.coinbase.android,id886427730
+29,CourseHero,Course Hero,Education,https://www.coursehero.com/,,
+30,Cowin,CoWIN,Healthcare,https://www.cowin.gov.in/,,
+31,Craigslist,craigslist,Shopping,https://craigslist.org/,org.craigslist.CraigslistMobile,id1336642410
+32,Deliveroo,Deliveroo,Shopping,https://deliveroo.com/,com.deliveroo.orderapp,id1001501844
+33,Dent,DENT,Telecommunications,https://www.dentwireless.com/,com.dentwireless.dentapp,id1325019276
+34,Dhani,Dhani,Shopping,https://www.dhani.com/,com.indiaBulls,id1273192455
+35,Didi,DiDi,Transportation,https://www.didiglobal.com/,com.didiglobal.passenger,id1362398401
+36,DidiFood,DiDi Food,Shopping,https://www.didi-food.com/,com.xiaojukeji.didi.global.customer,id1434256853
+37,Discord,Discord,Telecommunications,https://discord.com/,,
+38,DisneyHotstar,Disney+ Hotstar,Entertainment,https://www.hotstar.com/,,
+39,Doosra,Doosra,Telecommunications,https://www.doosra.com/,com.ten20infomedia.doosra,id1513242801
+40,Dott,Dott,Transportation,https://ridedott.com/,com.ridedott.rider,id1440301673
+41,Ebay,eBay,Shopping,https://www.ebay.com/,com.ebay.mobile,id282614216
+42,Egifter,eGifter,Shopping,https://www.egifter.com/,com.groupgifting.android,id543236238
+43,EmpowerFinance,Empower,Finance,https://empower.me/,finance.empower,id1136397354
+44,Facebook,Facebook,Social,https://www.facebook.com/,,
+45,Flipkart,Flipkart,Shopping,https://www.flipkart.com/,com.flipkart.android,id742044692
+46,Flurv,Flurv,Dating,,com.flurv.android,id308795090
+47,Flyp,Flyp,Telecommunications,https://getflyp.com/,flyp.android,id940678351
+48,Foodora,foodora,Shopping,https://www.foodora.com/,de.foodora.android,id998930867
+49,Foodpanda,Foodpanda,Shopping,https://www.foodpanda.com/,com.global.foodpanda.android,id758103884
+50,Frankspeech,FrankSpeech,Entertainment,https://frankspeech.com/,,
+51,Gabi,Gabi,Insurance,https://www.gabi.com/,,id1343478075
+52,Galaxy,Galaxy,Dating,https://in-galaxy.com/,ru.mobstudio.andgalaxy,id688736068
+53,Gameflip,Gameflip,Shopping,https://gameflip.com/,com.ijji.gameflip,id970274077
+54,Getir,getir,Shopping,https://getir.com/,com.getir,id995280265
+55,Gofundme,GoFundMe,Social,https://www.gofundme.com/,com.GoFundMe.GoFundMe,id734130700
+56,Google,Google,Tools,https://www.google.com/,,
+57,GoogleCloud,Google Cloud,Tools,https://cloud.google.com/,,
+58,GoogleVoice,Google Voice,Telecommunications,https://voice.google.com/,com.google.android.apps.googlevoice,id318698524
+59,Gopuff,Gopuff,Shopping,https://gopuff.com/,com.main.gopuff,id722804810
+60,Habl,HABL,Social,https://www.hiblocks.io/,io.hiblocks.app,id1478995676
+61,Hago,HAGO,Social,https://www.ihago.net/,com.yy.hiyo,id1400667917
+62,HelloYo,Hello Yo,Social,https://hello.fun/,sg.bigo.hellotalk,id1312825768
+63,Heytap,HeyTap,Social,https://www.heytap.com/,,
+64,Hi,hi,Finance,https://hi.com/,,
+65,Hinge,Hinge,Dating,https://hinge.co/,co.hinge.app,id595287172
+66,Hpool,HPOOL,Finance,https://www.ihpool.com/,,
+67,HuaweiId,Huawei ID,Tools,https://id7.cloud.huawei.com/,,
+68,Hubspot,HubSpot,Surveys,https://www.hubspot.com/,com.hubspot.android,id1107711722
+69,IkanoBank,Ikano Bank,Finance,https://bank.ikano/,com.entersekt.authapp.ikano,id1536096202
+70,Imo,imo,Telecommunications,https://imo.im/,com.imo.android.imoim,id336435697
+71,Instagram,Instagram,Social,https://www.instagram.com/,com.instagram.android,id389801252
+72,Jio,Jio,Telecommunications,https://www.jio.com/,com.jio.myjio,id1074964262
+73,JumiaFood,Jumia Food,Shopping,https://food.jumia.com/,com.jumiafood.android,id1113993339
+74,Kafu,Kafu,Telecommunications,https://www.kafumena.com/,com.quwan.ttchat,id1547588376
+75,Kakaotalk,KakaoTalk,Telecommunications,https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=en,com.kakao.talk,id869223134
+76,Klarna,Klarna,Finance,https://www.klarna.com/,com.myklarnamobile,id1115120118
+77,Kucoin,KuCoin,Finance,https://www.kucoin.com/,com.kubi.kucoin,id1378956601
+78,Kwai,Kwai,Social,https://www.kwai.com/,com.kwai.video,id1338605092
+79,Libon,Libon,Telecommunications,https://www.libon.com/,lifeisbetteron.com,id402167427
+80,Likee,Likee,Social,https://likee.video/,video.like,id1251790681
+81,Lime,Lime,Transportation,https://www.li.me/,com.limebike,id1199780189
+82,Line,LINE,Telecommunications,https://line.me/,jp.naver.line.android,id443904275
+83,LineWorks,LINE WORKS,Telecommunications,https://line.worksmobile.com/,com.gworks.oneapp.works,id1012129122
+84,Linkedin,LinkedIn,Social,https://www.linkedin.com/,com.linkedin.android,id288429040
+85,Listia,Listia,Shopping,https://www.listia.com/,com.listia.Listia,id429870253
+86,Livu,LivU,Social,https://www.livu.me/,com.videochat.livu,id1273950116
+87,Lyka,LYKA,Social,https://www.mylyka.com/,com.thingsilikeapp,id1268612476
+88,Mailru,Mail.ru,Telecommunications,https://mail.ru/,ru.mail.mailapp,id511310430
+89,Maxent,MaxEnt,Gambling,https://maxentertainment.com/,,
+90,Mcent,mCent,Tools,,com.mcent.browser,
+91,MiAccount,Mi Account,Tools,https://account.xiaomi.com/,,
+92,Microsoft,Microsoft,Tools,https://account.microsoft.com/,,
+93,MicrosoftAzure,Microsoft Azure,Tools,https://azure.microsoft.com/,,
+94,MicrosoftRewards,Microsoft Rewards,Tools,https://www.microsoft.com/rewards,,
+95,MicrosoftTeams,Microsoft Teams,Tools,https://www.microsoft.com/teams,com.microsoft.teams,id1113153706
+96,Moneylion,MoneyLion,Finance,https://www.moneylion.com/,com.moneylion,id1064677082
+97,MrSpin,Mr Spin,Gambling,https://www.mrspin.co.uk/,uk.co.mrspin.slots,id1238297282
+98,Myopinions,MyOpinions,Surveys,https://www.myopinions.com.au/,,
+99,NarendraModiApp,NarendraModi App,Tools,https://www.narendramodi.in/,com.narendramodiapp,id1016781909
+100,Naver,NAVER,News,https://www.naver.com/,,
+101,Netease,NetEase Games,Entertainment,https://www.neteasegames.com/,,
+102,Netflix,Netflix,Entertainment,https://www.netflix.com/,com.netflix.mediaclient,id363590051
+103,Neuprime,NeuPrime,Tools,https://www.neuprime.com/,,
+104,Nhs,NHS,Healthcare,https://www.nhs.uk/,com.nhs.online.nhsonline,id1388411277
+105,NumeroEsim,Numero eSIM,Telecommunications,https://www.numeroesim.com/,com.esim.numero,id1249825694
+106,NvidiaAndVmware,NVIDIA & VMware Test Drive,Tools,https://vgputestdrive.nvidia.com/,,
+107,Okcupid,OkCupid,Dating,https://www.okcupid.com/,com.okcupid.okcupid,id338701294
+108,Okex,OKEx,Finance,https://www.okex.com/,com.okinc.okex.gp,id1327268470
+109,Olaparty,Ola Party,Social,https://olaparty.com/,com.live.party,id1525829883
+110,Olx,OLX,Shopping,https://www.olx.com/,com.olx.olx,id382059698
+111,Oneopinion,OneOpinion,Surveys,https://www.oneopinion.com/,,
+112,Overbit,Overbit,Finance,https://www.overbit.com/,,
+113,Oyetalk,Oyetalk,Social,,com.oyetalk.tv,id1524257092
+114,Pampers,Pampers Club,Shopping,https://www.pampers.com/,com.pg.clubpampers.android.us,id1224627026
+115,Partychat,PartyChat,Social,https://www.partychat.live/,com.partychat.live,id1559150765
+116,Partying,Partying,Social,https://partying.sg/,com.imbb.oversea.android,id1499589662
+117,Payoneer,Payoneer,Finance,https://www.payoneer.com,com.payoneer.android,id663338402
+118,Paypal,PayPal,Finance,https://www.paypal.com/,com.paypal.android.p2pmobile,id283646709
+119,Paytm,Paytm,Finance,https://paytm.com/,net.one97.paytm,id473941634
+120,Peerbet,PeerBet,Gambling,https://peerbet.io/,io.peerbet.peerbet,id1441354291
+121,Pharmeasy,PharmEasy,Shopping,https://pharmeasy.in/,com.phonegap.rxpal,id982432643
+122,PlaystationNetwork,PlayStation Network,Entertainment,,,
+123,PlentyOfFish,Plenty of Fish,Dating,https://www.pof.com/,com.pof.android,id389638243
+124,Protonmail,ProtonMail,Telecommunications,https://protonmail.com/,ch.protonmail.android,id979659905
+125,Qichacha,Qichacha,Telecommunications,https://www.qcc.com/,,id878075397
+126,Qiwi,QIWI,Finance,https://qiwi.com/,ru.mw,id350905609
+127,Rappi,Rappi,Shopping,https://www.rappi.com/,com.grability.rappi,id984044296
+128,Revolut,Revolut,Finance,https://www.revolut.com/,com.revolut.revolut,id932493382
+129,Roblox,Roblox,Entertainment,https://www.roblox.com/,com.roblox.client,id431946152
+130,Rooter,Rooter,Entertainment,https://web.rooter.gg/,com.threesixteen.app,id1115677906
+131,Roposo,Roposo,Shopping,https://www.roposo.com/,com.roposo.android,id950273328
+132,Royalwin,RoyalWin,Gambling,https://www.royal999.win/,,
+133,Rumble,Rumble,Social,https://rumble.com/,com.rumble.battles,id1518427877
+134,Rush,Rush,Gambling,https://www.getrushapp.com/,com.hike.rush,id1540922030
+135,Sagoon,Sagoon,Social,https://www.sagoon.com/,com.sagoon.connect.share.earn,id1449566264
+136,Shaadi,Shaadi.com,Dating,https://www.shaadi.com/,com.shaadi.android,id480093204
+137,Sharechat,ShareChat,Social,https://sharechat.com/,in.mohalla.sharechat,id1440640105
+138,Shopee,Shopee,Shopping,https://shopee.com/,,
+139,ShopeePay,ShopeePay,Finance,https://shopeepay.co.th/,com.beeasy.airpay,id908669202
+140,Signal,Signal,Telecommunications,https://signal.org/,org.thoughtcrime.securesms,id874139669
+141,Skillclash,SkillClash,Education,https://www.skillclash.com/,,
+142,Skout,Skout,Dating,https://www.skout.com/,com.skout.android,id302324249
+143,Skype,Skype,Telecommunications,https://www.skype.com/,com.skype.raider,id304878510
+144,Smood,Smood,Shopping,https://www.smood.ch/,com.jamtech.marabel.smood,id1227720412
+145,SnackVideo,Snack Video,Social,https://www.snackvideo.com/,com.kwai.bulldog,id1521114100
+146,Snapchat,Snapchat,Social,https://www.snapchat.com/,com.snapchat.android,id447188370
+147,Sony,Sony Entertainment Network,Entertainment,https://id.sonyentertainmentnetwork.com/id/management/,,
+148,SonyLiv,SonyLIV,Entertainment,https://www.sonyliv.com/,com.sonyliv,id587794258
+149,Soul,Soul,Social,https://www.soulapp.cn/,cn.soulapp.android,id1032287195
+150,Steam,Steam,Entertainment,https://store.steampowered.com/,com.valvesoftware.android.steam.community,id495369748
+151,Steemhunt,Steemhunt,Other,https://steemhunt.com/,,
+152,Steemit,Steemit,Social,https://steemit.com/,,
+153,Stormgain,StormGain,Finance,https://stormgain.com/,com.stormgain.mobile,id1471506070
+154,Stripe,Stripe,Finance,https://stripe.com/,com.stripe.android.dashboard,id978516833
+155,Surveyo24,surveyo24,Surveys,https://surveyo24.com/,,
+156,Swissborg,SwissBorg,Finance,https://swissborg.com/,com.swissborg.android,id1442483481
+157,Talku,TalkU,Social,https://www.talkyou.me/,me.talkyou.app.im,id863809868
+158,Tamtam,TamTam,Social,https://tamtam.chat/,ru.ok.messages,id1095345669
+159,Taobao,Taobao,Shopping,https://www.taobao.com/,com.taobao.taobao,id387682726
+160,TataSky,Tata Sky,Entertainment,https://www.tatasky.com/,com.ryzmedia.tatasky,id385090000
+161,TeamMatrimony,Muslim Matrimony,Dating,https://www.muslimmatrimony.com/,com.muslimmatrimony,id1103689901
+162,Telegram,Telegram,Telecommunications,https://telegram.org/,org.telegram.messenger,id686449807
+163,Textnow,TextNow,Telecommunications,https://www.textnow.com/,com.enflick.android.TextNow,id314716233
+164,Textplus,textPlus,Telecommunications,https://textplus.com/,com.gogii.textplus,id314487667
+165,Thumbtack,Thumbtack,Other,https://www.thumbtack.com/,com.thumbtack.consumer,id852703300
+166,Tiki,Tiki,Social,https://tiki.video/,video.tiki,id1553910943
+167,Tiktok,TikTok,Social,https://www.tiktok.com/,com.zhiliaoapp.musically,id835599320
+168,TiktokAds,TikTok Ads,Tools,https://ads.tiktok.com/,,
+169,Tinder,Tinder,Dating,https://tinder.com/,com.tinder,id547702041
+170,Trovo,Trovo,Entertainment,https://trovo.live/,com.tlive.madcat,id1498583637
+171,Tumile,Tumile,Social,https://www.tumilechat.com/,com.rcplatform.livechat,
+172,Twilio,Twilio,Telecommunications,https://www.twilio.com/,,
+173,Twitch,Twitch,Entertainment,https://www.twitch.tv/,tv.twitch.android.app,id460177396
+174,Twitter,Twitter,Social,https://twitter.com/,com.twitter.android,id333903271
+175,Uber,Uber,Transportation,https://www.uber.com/,com.ubercab,id368677368
+176,UberEats,Uber Eats,Shopping,https://www.ubereats.com/,com.ubercab.eats,id1058959277
+177,Unacademy,Unacademy,Education,https://unacademy.com/,com.unacademyapp,id1342565069
+178,Varo,Varo,Finance,https://www.varomoney.com/,com.varomoney.bank,id1517676784
+179,Vedantu,Vedantu,Education,https://www.vedantu.com/,com.vedantu.app,id1481959104
+180,Viber,Viber,Telecommunications,https://www.viber.com/,com.viber.voip,id382617920
+181,VivaWallet,Viva Wallet,Finance,https://www.vivawallet.com/,com.vivawallet.business,id1450362680
+182,Vivaldi,Vivaldi Community,Entertainment,https://vivaldi.net/,,
+183,Vk,VK,Social,https://vk.com/,com.vkontakte.android,id564177498
+184,Vrbo,Vrbo,Other,https://www.vrbo.com/,com.vrbo.android,id1071907841
+185,VulkanVegas,Vulkanbet,Gambling,https://vulkanbet.com/,,
+186,Vulkanbet,Vulkan Vegas,Gambling,https://vulkanvegas.com/,,
+187,Webmoney,WebMoney,Finance,https://www.wmtransfer.com/,com.webmoney.my,id524382727
+188,Wechat,WeChat,Telecommunications,https://www.wechat.com/,com.tencent.mm,id414478124
+189,Wecom,WeCom,Telecommunications,,com.tencent.wework,id1087897068
+190,Weibo,Weibo,Social,https://weibo.com/,com.sina.weibo,id350962117
+191,Welo,Welo,Dating,http://weloapps.com/,com.match.date.welo,id1507107123
+192,Whatsapp,WhatsApp,Telecommunications,https://www.whatsapp.com/,com.whatsapp,id310633997
+193,WhatsappBusiness,WhatsApp Business,Telecommunications,https://www.whatsapp.com/business/,com.whatsapp.w4b,id1386412985
+194,Wind,WIND,Transportation,https://wind.yango.com/,com.zen.zbike,id1247826304
+195,Winzo,WinZO,Gambling,https://www.winzogames.com/,,id1544750486
+196,Wish,Wish,Shopping,https://www.wish.com/,com.contextlogic.wish,id530621395
+197,Yalla,Yalla,Social,https://www.yalla.live/,com.weieyu.yalla,id1091902866
+198,YallaChat,YallaChat,Telecommunications,,com.yallatech.yallachat,id1539388601
+199,YallaLudo,Yalla Ludo,Entertainment,,com.yalla.yallagames,id1419536376
+200,YallaParchis,Yalla Parchis,Entertainment,,com.yalla.yallaparchisi,id1542713951
+201,Yoho,YoHo,Social,https://www.yoho.media/,com.voicechat.live.group,id1509635224
+202,Youtube,YouTube,Entertainment,https://www.youtube.com/,com.google.android.youtube,id544007664
+203,Yubo,Yubo,Social,https://www.yubo.live/,co.yellw.yellowapp,id1038653883
+204,Zain,Zain,Telecommunications,https://www.zain.com/,com.zainsa.b2c,id1272141660
+205,Zalo,Zalo,Telecommunications,https://zalo.me/,com.zing.zalo,id579523206
+206,Zarca,Zarca,Surveys,https://www.zarca.com/,,
+207,Zee5,ZEE5,Entertainment,https://www.zee5.com/,com.graymatrix.did,id743691886
+208,Zhihu,Zhihu,Social,https://www.zhihu.com/,com.zhihu.android,id432274380
+209,Zilliqa,Zilliqa Planet,Finance,https://kexingqiu.net/en,com.amazingblock.zilliqa,id1464656508
+210,Zip,Zip,Finance,https://zip.co/,co.zip,id1411824359
+211,Zoho,Zoho,Tools,https://www.zoho.com/,,
+212,Zomato,Zomato,Shopping,https://www.zomato.com/,com.application.zomato,id434613896
