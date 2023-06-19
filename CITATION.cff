@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+type: dataset
+url: https://github.com/josemmo/your-code-is-0000
+title: 'Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem'
+message: If you use any of these artifacts, please cite as below.
+license: MIT
+authors:
+  - family-names: Moreno
+    given-names: José Miguel
+    orcid: https://orcid.org/0009-0009-0849-204X
+  - family-names: Matic
+    given-names: Srdjan
+    orcid: https://orcid.org/0000-0003-2822-3970
+  - family-names: Vallina-Rodriguez
+    given-names: Narseo
+    orcid: https://orcid.org/0000-0002-5420-6835
+  - family-names: Tapiador
+    given-names: Juan
+    orcid: https://orcid.org/0000-0002-4573-3967
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Moreno
+      given-names: José Miguel
+      orcid: https://orcid.org/0009-0009-0849-204X
+    - family-names: Matic
+      given-names: Srdjan
+      orcid: https://orcid.org/0000-0003-2822-3970
+    - family-names: Vallina-Rodriguez
+      given-names: Narseo
+      orcid: https://orcid.org/0000-0002-5420-6835
+    - family-names: Tapiador
+      given-names: Juan
+      orcid: https://orcid.org/0000-0002-4573-3967
+  title: 'Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem'
+  collection-title: Proceedings of the 2023 Network Traffic Measurement and Analysis Conference (TMA)
+  conference:
+    name: Network Traffic Measurement and Analysis Conference
+    alias: TMA
+  publisher:
+    name: Institute of Electrical and Electronics Engineers
+    alias: IEEE
+  year: 2023
+  month: 6

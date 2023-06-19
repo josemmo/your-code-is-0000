@@ -7,5 +7,16 @@ The repository has the following files:
 - [**volume.csv**](volume.csv): Number of received messages, active DPNs and monitored PSGs per day.
 - [**messages-per-service.csv**](messages-per-service.csv): Number of received messages grouped by online service.
 
+## Citing
+```latex
+@inproceedings{yourcodeis2023,
+  author = {Moreno, José Miguel and Matic, Srdjan and Vallina-Rodriguez, Narseo and Tapiador, Juan},
+  title = {{Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem}},
+  booktitle = {{Proceedings of the 2023 Network Traffic Measurement and Analysis Conference (TMA)}},
+  year = {2023},
+  month = jun
+}
+```
+
 ## License
 The contents of this repository are available under the [MIT License](LICENSE).
