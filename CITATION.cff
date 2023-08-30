@@ -32,6 +32,7 @@ preferred-citation:
     - family-names: Tapiador
       given-names: Juan
       orcid: https://orcid.org/0000-0002-4573-3967
+  doi: '10.23919/TMA58422.2023.10199069'
   title: 'Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem'
   collection-title: Proceedings of the 2023 Network Traffic Measurement and Analysis Conference (TMA)
   conference:
@@ -40,5 +41,7 @@ preferred-citation:
   publisher:
     name: Institute of Electrical and Electronics Engineers
     alias: IEEE
+  start: 1 # First page number
+  end: 10 # Last page number
   year: 2023
   month: 6

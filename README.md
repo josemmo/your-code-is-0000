@@ -13,6 +13,9 @@ The repository has the following files:
   author = {Moreno, José Miguel and Matic, Srdjan and Vallina-Rodriguez, Narseo and Tapiador, Juan},
   title = {{Your Code is 0000: An Analysis of the Disposable Phone Numbers Ecosystem}},
   booktitle = {{Proceedings of the 2023 Network Traffic Measurement and Analysis Conference (TMA)}},
+  pages = {1--10},
+  url = {https://doi.org/10.23919/TMA58422.2023.10199069},
+  doi = {10.23919/TMA58422.2023.10199069},
   year = {2023},
   month = jun
 }
